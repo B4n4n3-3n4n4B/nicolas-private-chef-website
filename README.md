@@ -13,3 +13,13 @@ Website for Nicolás Bonilla — Private Chef
 <meta property="og:image" content="https://media.base44.com/images/public/698b7894d8ca8534398c3974/626e4a90c_image.jpg" />
 
 </head>
+index.html
+style.css
+images/
+repository
+│
+├── index.html
+├── style.css
+└── images
+https://username.github.io/repository-name
+nico-bonilla.com
